@@ -5,7 +5,8 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "updated flask code by pavan-devops training to vyshnavi"
+    return "Pavan is going to start a new training session at the end of this month.
+"
 
 
 if __name__ == "__main__":
